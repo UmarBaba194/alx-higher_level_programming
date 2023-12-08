@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -----------------------------------------------------------
 # Python program that:
-# demonstrates how to return a set of common elements in two 
+# demonstrates how to return a set of common elements
 # -----------------------------------------------------------
 
 
